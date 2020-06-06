@@ -1,0 +1,54 @@
+.maincontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.searchcontainer {
+    display: flex;
+}
+
+.textfieldcontainer {
+    display: flex;
+    flex-grow: 1;
+}
+
+.addresslistcontainer {
+    width: 100%;
+}
+
+#postcodeTextField {
+    display: flex;
+    flex-grow: inherit;
+}
+
+.textfield {
+    display: flex;
+    flex-grow: inherit;
+    font-weight: bold;
+}
+
+.textfield div {
+    display: flex;
+    flex-grow: inherit;
+    font-weight: inherit;
+}
+
+.textfield input {
+    font-weight: inherit;
+}
+
+#addresslistComboBox {
+    width: 100%;
+}
+
+.addresslist {
+    width: 100%;
+}
+
+.addresslist div {
+    width: 100%;
+}
+
+.searchbuttoncontainer {
+    display: flex;
+}

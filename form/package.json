@@ -1,0 +1,13 @@
+{
+  "name": "pcf-form-evets-form-script",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Flint",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
