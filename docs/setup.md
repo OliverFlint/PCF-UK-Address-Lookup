@@ -13,17 +13,17 @@ Once the solution has been imported you should have an example form on the conta
 ## Integration with other forms
 
 1) Enable the control on your post code field
-   ![](img\enable.png) 
+   ![](img/enable.png) 
 
 2) Configure the properties. Enter your [getAddress()](https://getaddress.io/) API key.
-   ![](img\properties.png) 
+   ![](img/properties.png) 
 
 3) Adding the form script.
    - Add the resource to the form
-      ![](img\addresource.png)
+      ![](img/addresource.png)
    - Configure the onload event
-      ![](img\handler.png)
-      ![](img\handler2.png)
+      ![](img/handler.png)
+      ![](img/handler2.png)
    *Note: This form script will work when using the control with the OOTB address fields address1_postalcode, address2_postalcode, and address3_postalcode. If you require integration with custom address fields follow the steps in the next section*
 
 ## Integration with custom address fields
